@@ -1,0 +1,62 @@
+.icon--primary-color
+	/* Apple Pay */
+	path[opacity$="0.7"],
+	path[fill$="#000"],
+
+	/* Google Pay */
+	path[opacity$="0.7"],
+	path[fill$="#000"],
+	path[fill$="#FF5F00"],
+	path[fill$="#EA4335"],
+	path[fill$="#4285F4"],
+	path[fill$="#34A853"],
+	path[fill$="#FBBC04"],
+	path[fill$="#5F6368"],
+
+	/* JCB */
+	path[opacity$="0.7"],
+	path[fill$="#000"],
+	path[fill$="#006EBC"],
+	path[fill$="#F00036"],
+	path[fill$="#2AB419"],
+
+	/* Master */
+	path[opacity$="0.7"],
+	circle[fill$="#EB001B"],
+	circle[fill$="#F79E1B"],
+	path[fill$="#FF5F00"],
+
+	/* Shopify Pay */
+	path[opacity$="0.7"],
+	path[fill$="#5A31F4"],
+	path[fill$="#142688"],
+
+	/* VISA */
+	path[opacity$="0.7"],
+	path[fill$="#142688"],
+
+	/* AMEX */
+	path[fill$="#000"],
+	path[fill$="#006FCF"],
+
+	/* PayPal */
+	path[opacity$="0.7"],
+	path[fill$="#003087"],
+	path[fill$="#3086C8"],
+	path[fill$="#012169"],
+
+	/* Diners Club */
+	path[opacity$="0.7"],
+	path[fill$="#3086C8"],
+
+	/* Discover */
+	path[opacity$="0.7"],
+	path[fill$="#231F20"],
+	path[fill$="url(#pi-paint0_linear)"],
+	path[opacity$="0.65"],
+	path[fill$="#F48120"] {
+
+	/* Select Primary Color */
+	fill: #333333 !important;
+	opacity: 1;
+}
